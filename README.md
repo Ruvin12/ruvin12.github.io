@@ -1,2 +1,1 @@
-# ruvin12.github.io
-about me part 2
+# ruvinyak.github.io
